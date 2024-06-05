@@ -1,1 +1,1 @@
-You need to put this project in the www or htdocs folder and configure the path to which all your videos will be saved. It is IMPORTANT to set up the configuration for downloading audio and video. These configurations are found in audio\yt-dlp.conf and video\yt-dlp.conf
+(PHP 8.1!) You need to put this project in the www or htdocs folder and configure the path to which all your videos will be saved. It is IMPORTANT to set up the configuration for downloading audio and video. These configurations are found in audio\yt-dlp.conf and video\yt-dlp.conf
